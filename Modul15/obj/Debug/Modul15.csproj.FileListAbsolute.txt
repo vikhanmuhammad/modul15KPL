@@ -1,0 +1,16 @@
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\bin\Debug\Modul15.exe.config
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\bin\Debug\Modul15.exe
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\bin\Debug\Modul15.pdb
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\bin\Debug\Newtonsoft.Json.dll
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.csproj.AssemblyReference.cache
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.Form1.resources
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.Form2.resources
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.Form3.resources
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.Properties.Resources.resources
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.csproj.GenerateResource.cache
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.csproj.CoreCompileInputs.cache
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.csproj.CopyComplete
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.exe
+D:\Kuliah\Koreksi Asprak\KPL\Modul15\Modul15\obj\Debug\Modul15.pdb
